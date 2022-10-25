@@ -1,38 +1,48 @@
-## Built With
-
-- `HTML`
-- `CSS`
-- `Bootstraps`
+<div align="center">
+  <h2><u>Coffee Time </u></h2>
+</div>
 
 <br>
-
-## Website
-
-- [ ``√`` ] `Home Page`
-- [ ``√`` ] `Home Sign-Up`
-- [ ``√`` ] `Home Login`
-- [ ``√`` ] `Home Product`
-- [ ``√`` ] `Home Profile`
-
 <br>
 
-## Contact
+# About The Project
 
-Rofiq Hidayat - [@roef_kr/\_\_](https://www.instagram.com/roef_kr/) - rofiqhidayat495@gmail.com
+<p>Coffee Time is everyone can drinks</p>
 
-<br>
+<h2 align="left">Built With</h2>
 
-## Deploy Website
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figna" />
+  </a>
+</p>
 
-Link Website : https://coffeetimenew.netlify.app/
+<!-- GETTING STARTED -->
 
-<br>
+# Getting Started
 
-## Github
+1. Download this Project or you can type
+   `https://github.com/rofiq999/Coffee_time-Frond-End/archive/refs/heads/master.zip`
+2. Open IDE or Click index.html
+3. Coffee Time is Running
 
-Project Link: https://github.com/rofiq999/Coffee-Time-Frond-End
+## Installation
 
-<br>
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/rofiq999/Coffee-Time-Frond-End.git
+   ```
+
+2. Open IDE or Click index.html
+3. Coffee Time is Running
+
+## Features
+
+1. Responsive
+2. Perfomance Testing with Lighthouse
+3. HTML and CSS only
+   <br>
 
 ## User Interface Website
 
@@ -41,7 +51,7 @@ Project Link: https://github.com/rofiq999/Coffee-Time-Frond-End
 1. Home Page
 <br>
 <br>
-<img width="200" src="./assets/ss/Home-Page.png" alt="Home page">
+<img width="200" src="assets/ss/Home-Page.png" alt="Home page">
 <div>
 
 <br>
@@ -75,3 +85,10 @@ Project Link: https://github.com/rofiq999/Coffee-Time-Frond-End
 <br>
 <img width="200" src="assets/ss/Product.png" alt="Home page">
 <div>
+
+<br>
+
+<h2 align="left">Related Project<h4>
+<p align="left"> Frontend Deploy [`here`] ( https://coffeetimenew.netlify.app/)</p>
+<a align="left"> Link Website : https://coffeetimenew.netlify.app <a>
+<p align="center"><sub><b>&copy;2022❤️Coffee TIme☕</b></sub> </p>
