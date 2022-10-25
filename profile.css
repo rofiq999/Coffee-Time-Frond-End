@@ -1,0 +1,428 @@
+.text {
+  padding-left: 10px;
+  font-family: 'Rubik';
+  font-size: 20px;
+}
+.space {
+  padding-left: 30%;
+}
+.posisi {
+  padding-left: 20%;
+}
+.search {
+  margin-left: 50%;
+}
+.chat {
+  margin-left: 10%;
+}
+.profile {
+  margin-left: 50px;
+  padding-right: 50px;
+}
+.profile1 {
+  border-radius: 30px;
+}
+#nav {
+  padding-bottom: 20px;
+  width: 100%;
+}
+
+body {
+  background-image: url('./assets/background.png');
+  background-size: cover;
+}
+.user {
+  color: white;
+  padding-top: 5%;
+  margin-left: 10%;
+  margin-bottom: 21px;
+}
+
+.conten {
+  padding-left: 60px;
+}
+.conten1 {
+  height: 297px;
+  border-radius: 5px;
+  margin-right: 20px;
+  width: auto;
+}
+.conten2 {
+  height: 296px;
+  border-radius: 5px;
+  margin-left: 1px;
+  padding-left: 90000px;
+}
+.details {
+  padding-top: 10%;
+  padding-bottom: 10%;
+  /* padding-left: 70px; */
+  border-radius: 90;
+}
+.conten3 {
+  height: 325px;
+  margin-top: 200px;
+}
+.cl1 {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  height: 50vh;
+  background-color: rgb(255, 253, 253);
+}
+.cl2 {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: white;
+  height: 50vh;
+  width: 200px;
+}
+
+.ds1 {
+  color: white;
+  margin-left: 320px;
+  width: 476px;
+  margin-top: -155px;
+  height: 62px;
+}
+.button1-1 {
+  width: 272px;
+  background-color: #623424;
+  height: 40px;
+  border-radius: 15px;
+  border-color: #623424;
+  color: #ffffff;
+  margin-left: 219%;
+  margin-top: -12px;
+  font-family: 'Poppins';
+  font-size: 18px;
+}
+.button1-2 {
+  width: 272px;
+  background-color: #f49219;
+  height: 40px;
+  border-radius: 15px;
+  border-color: #f49219;
+  color: #623424;
+  margin-left: 219%;
+  margin-top: 3px;
+  font-family: 'Poppins';
+  font-size: 18px;
+}
+.button2-1 {
+  width: 272px;
+  background-color: #ffffff;
+  height: 40px;
+  border-radius: 15px;
+  border-color: #ffffff;
+  color: #623424;
+  text-align: left;
+  margin-left: 219%;
+  margin-top: 8px;
+  font-family: 'Poppins';
+  font-size: 18px;
+}
+.button2-2 {
+  width: 272px;
+  background-color: #ffffff;
+  height: 40px;
+  border-radius: 15px;
+  border-color: #ffffff;
+  color: #623424;
+  text-align: left;
+  margin-left: 219%;
+  margin-top: 1px;
+  font-family: 'Poppins';
+  font-size: 18px;
+}
+.button1 {
+  padding-bottom: 10px;
+}
+.button2 {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+/* footer{
+    width: 100%;
+
+} */
+
+.p-3 {
+  padding: 0.9rem !important;
+}
+.profile-1 {
+  padding-top: 44px;
+}
+.profile-2 {
+  border-radius: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+.nm {
+  font-family: 'Rubik';
+  padding-top: 13px;
+  text-align: center;
+}
+.email {
+  text-align: center;
+  font-size: 10px;
+  font-family: 'Rubik';
+}
+.products {
+  text-align: center;
+  padding-top: 11px;
+  font-size: 13px;
+  color: #4f5665;
+  font-family: 'Rubik';
+}
+.garis {
+  background-color: #623424;
+  width: 100%;
+  height: 9px;
+
+  position: absolute;
+  border-bottom-left-radius: 90px;
+
+  padding-right: 9000px;
+}
+/* .footer {
+  height: 300px;
+  width: 100%;
+} */
+/* .cok {
+  background-color: #ffffff;
+  width: 20px;
+  height: 50%;
+  margin-bottom: 80px;
+}
+.cok1 {
+  background-color: #ffffff;
+  height: 200px;
+  margin-bottom: 70px;
+} */
+
+.contact {
+  text-align: left;
+  font-size: 25px;
+  margin-left: 15px;
+  margin-top: 20px;
+  color: #4f5665;
+  font-family: Poppins;
+}
+
+.kotak {
+  width: 80mm;
+  height: 90px;
+  margin-top: 20px;
+  text-align: left;
+  margin-left: 30px;
+}
+
+.text-email {
+  font-family: Poppins;
+  color: #9f9f9f;
+}
+
+.text-name {
+  text-align: left;
+  margin-top: -12px;
+}
+.kotak1 {
+  width: 80mm;
+  margin-left: 376px;
+  height: 70px;
+  background-color: #ffffff;
+  margin-top: -116px;
+}
+.text-phone {
+  text-align: left;
+  font-family: Poppins;
+  color: #9f9f9f;
+}
+
+.text-number {
+  margin-top: -12px;
+  text-align: left;
+}
+
+.address {
+  width: 80mm;
+  height: 90px;
+  margin-top: 20px;
+  text-align: left;
+  margin-left: -350px;
+}
+
+.text-address {
+  font-family: Poppins;
+  color: #9f9f9f;
+}
+
+footer {
+  width: 100%;
+  height: 528px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 80px;
+  background-color: #f8f8f8;
+}
+
+.footer-left {
+  margin-top: 80px;
+  margin-left: -170px;
+}
+
+.footer-left,
+.footer-right {
+  flex: 1;
+}
+
+.address ol li {
+  list-style: none;
+  margin-top: 20px;
+  font-size: 16px;
+  color: #4f5665;
+}
+
+.address h2 {
+  margin-left: 58%;
+  font-size: 18px;
+  color: #0b132a;
+  font-weight: 500px;
+}
+
+.detail {
+  text-align: left;
+  font-size: 25px;
+  margin-left: 15px;
+  margin-top: 20px;
+  color: #4f5665;
+  font-family: Poppins;
+}
+
+.display {
+  width: 80mm;
+  height: 90px;
+  margin-top: -7px;
+  text-align: left;
+  margin-left: 16px;
+}
+
+.text-display {
+  font-family: Poppins;
+  color: #9f9f9f;
+}
+
+.text-display-name {
+  text-align: left;
+  margin-top: -12px;
+}
+
+.birthday {
+  width: 51mm;
+  margin-left: 381px;
+  height: 50px;
+  background-color: #ffffff;
+  margin-top: -261px;
+}
+
+.text-birthday {
+  font-family: Poppins;
+  color: #9f9f9f;
+  margin-right: 109px;
+}
+
+.text-birthday-number {
+  margin-top: -12px;
+  text-align: left;
+  font-family: 'Rubik';
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.male {
+  list-style: none;
+  text-align: left;
+}
+
+.female {
+  list-style: none;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.footer-right {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.icon-detail {
+  position: relative;
+  display: flex;
+  margin-top: 20px;
+  width: 20%;
+  cursor: pointer;
+}
+
+.logo-detail {
+  display: flex;
+  align-items: center;
+  margin-top: 21px;
+}
+
+.image-detail {
+  width: 1.6em;
+  margin-right: 10px;
+}
+
+.text-content {
+  margin-top: 27px;
+  width: 68%;
+  font-size: 16px;
+  text-align: left;
+  color: #4f5665;
+}
+
+.sosmed-detail {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  margin-top: 19px;
+  width: 20%;
+  left: 150px;
+  gap: 4em;
+  cursor: pointer;
+  bottom: -189px;
+}
+
+.img-logo {
+  position: absolute;
+  overflow: hidden;
+  object-fit: cover;
+  left: -20px;
+  top: 19px;
+}
+
+.box {
+  display: flex;
+  position: relative;
+}
+
+.text-copyright {
+  width: 142px;
+  height: 30px;
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: 81px;
+  text-align: center;
+  color: #afb5c0;
+}
+
+.address ol {
+  padding-left: 11rem;
+}
